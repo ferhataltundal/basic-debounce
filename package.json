@@ -1,0 +1,32 @@
+{
+  "name": "basic-debounce",
+  "version": "1.0.0",
+  "description": "Basic Debounce",
+  "main": "dist/index.js",
+  "private": false,
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [
+    "basic debounce",
+    "debounce",
+    "temperature debounce"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferhataltundal/basic-debounce.git"
+  },
+  "files": [
+    "dist /**/*"
+  ],
+  "author": {
+    "name": "Ferhat ALTUNDAL",
+    "email": "ferolinka1850@hotmail.com",
+    "url": "https://github.com/ferhataltundal"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
